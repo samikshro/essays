@@ -1,8 +1,8 @@
 module.exports = {
   pathPrefix: "/essays",
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
+    title: `Samik Shrotriya`,
+    author: `Samik Shrotriya`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://samikshro.github.io`,
     social: {
