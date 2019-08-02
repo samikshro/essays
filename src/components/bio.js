@@ -54,11 +54,12 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> who lives and works in San
-        Francisco building useful things.
+        Written by <strong>{author}</strong>, a computer science student at Cornell who is 
+        interested in learning more about market research, distributed systems, and reinforcement learning.
+        He wants to use this platform to talk about the things he has learned. 
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+          Feel free to send him an email!
         </a>
       </p>
     </div>
